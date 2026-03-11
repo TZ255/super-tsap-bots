@@ -14,9 +14,8 @@
     "mongoose": "^8.17.0",
     "nodemon": "^3.0.1",
     "openai": "^5.11.0",
-    "puppeteer": "^21.11.0",
     "qrcode": "^1.5.3",
-    "whatsapp-web.js": "^1.23.0",
+    "whatsapp-web.js": "^1.34.6",
     "zod": "^3.25.76"
   },
   "keywords": [

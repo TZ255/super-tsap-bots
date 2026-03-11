@@ -198,7 +198,7 @@ async function startServer() {
     TelegramWhatsAppManagerBot();
 
     // Start Express server
-    app.listen(PORT, '0.0.0.0', () => {
+    app.listen(PORT, () => {
       console.log(`✅ Express server running on port ${PORT}`);
       console.log(`🌐 Health check: http://localhost:${PORT}/`);
       console.log('📱 Send /start to Telegram bot to manage WhatsApp bots');
